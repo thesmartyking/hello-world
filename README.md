@@ -8,4 +8,4 @@ so i am working in company
 ------
 i am android enthusiast
 
-so i make apps
+so i make apps on android studio

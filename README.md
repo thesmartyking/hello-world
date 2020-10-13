@@ -8,4 +8,4 @@ so i am working in company
 ------
 i am android enthusiast
 
-so i make apps on android studio & kotlin
+so i make apps on android studio & kotlin so it is better
